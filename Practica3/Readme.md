@@ -11,11 +11,11 @@ Primero configuraremos la máquina con nginx
 
 Éste es el resultado de hacer peticiones al balanceador de carga
 
-![imagen](https://github.com/Skeptor/SWAP1718/blob/master/Practica2/balanceo-nginx.png)
+![imagen](https://github.com/Skeptor/SWAP1718/blob/master/Practica3/balanceo-nginx.png)
 
 
 Después de ésto configuramos la máquina dos con Haproxy. Ésta es la configuración y el resultado
 
-![imagen](https://github.com/Skeptor/SWAP1718/blob/master/Practica2/conf-haproxy.png)
+![imagen](https://github.com/Skeptor/SWAP1718/blob/master/Practica3/conf-haproxy.png)
 
-![imagen](https://github.com/Skeptor/SWAP1718/blob/master/Practica2/balanceo-haproxy.png)
+![imagen](https://github.com/Skeptor/SWAP1718/blob/master/Practica3/balanceo-haproxy.png)
